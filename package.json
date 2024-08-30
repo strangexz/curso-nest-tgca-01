@@ -1,7 +1,7 @@
 {
-  "name": "project",
+  "name": "curso-nest-tgca-01",
   "version": "0.0.1",
-  "description": "",
+  "description": "Curso básico de Nest JS - Ejercicio 01",
   "author": "",
   "private": true,
   "license": "UNLICENSED",
@@ -23,6 +23,8 @@
     "@nestjs/common": "^10.0.0",
     "@nestjs/core": "^10.0.0",
     "@nestjs/platform-express": "^10.0.0",
+    "curso-nest-tgca-01": "file:",
+    "project": "file:",
     "reflect-metadata": "^0.2.0",
     "rxjs": "^7.8.1"
   },
